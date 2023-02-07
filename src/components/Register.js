@@ -43,3 +43,4 @@ function Register({ emailChange, passwordChange, setNavigate }) {
   )
 }
 export default Register;
+
